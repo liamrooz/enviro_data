@@ -1,4 +1,4 @@
-Year,CSIRO - Adjusted sea level (inches),CSIRO - Lower error bound (inches),CSIRO - Upper error bound (inches),NOAA - Adjusted sea level (inches)
+Year,Adjusted sea level (inches),Lower error bound (inches),Upper error bound (inches),Adjusted sea level (inches)
 1880,0,-0.952755905,0.952755905,
 1881,0.220472441,-0.732283464,1.173228345,
 1882,-0.440944881,-1.346456692,0.464566929,
